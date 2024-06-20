@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Lorenzo
+- 👀 I’m interested in Coding!
+- 🌱 I’m currently learning HTML
+- ⚡ Fun fact: The distance from Earth to the Sun is 93 million miles (149 million kilometers)!!!
